@@ -34,8 +34,8 @@ Risk-return analysis
 3. All outputs will be generated automatically
 
 ## 6. Links
-GitHub Repository: [Your Link]
-Demo Video: [Your Link]
+GitHub Repository: https://github.com/ivy-K-W/ACC102-track2-S-P500-Analysis.git
+Demo Video: 
 
 ## 7. Limitations & Improvements
 Limitations: Data is historical; no macro variables
