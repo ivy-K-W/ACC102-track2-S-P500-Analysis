@@ -33,10 +33,6 @@ Risk-return analysis
 2. Run the Jupyter notebook
 3. All outputs will be generated automatically
 
-## 6. Links
-GitHub Repository: https://github.com/ivy-K-W/ACC102-track2-S-P500-Analysis.git
-Demo Video: 
-
-## 7. Limitations & Improvements
+## 6. Limitations & Improvements
 Limitations: Data is historical; no macro variables
 Improvements: Update data, add financial ratios, build interactive tool
